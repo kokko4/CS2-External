@@ -1,83 +1,90 @@
-# CS2-External
-💕 hex.systems ext project for cs2
-free ext-cs2 client focused on legit gameplay, stability, and security. designed to stay undetected while providing smooth and customizable features for everyday use.
+# 💕 CS2 External — hex.systems
 
-### ↪️ FOR OBTAINING A KEY, YOU NEED TO JOIN THE DISCORD SERVER AND CONTACT SUPPORT VIA THE #OPEN-TICKET CHANNEL
+> free external client for cs2 focused on **legit gameplay**, **stability**, and **security**  
+> designed to stay undetected while delivering smooth and fully customizable features
+
+---
+
+## 🔑 access
+
+> ### ↪️ TO OBTAIN A KEY  
+> join the discord server and create a ticket in **#open-ticket**
+
+---
 
 ## 🚧 private beta access
 
 the **private version** is currently available **for free** during the beta phase.
 
-this is a temporary decision while we actively fix bugs, improve stability, and polish core systems.  
-by using the beta, you’re helping us test and refine the project.
+this is a temporary decision while we actively:
+- fixing bugs  
+- improving stability  
+- polishing core systems  
 
-> ⚠️ this free access is **limited to the beta period only**  
-> once testing is complete, private access may return to invite-only or paid.
+by using the beta, you help us **test, improve, and refine** the project.
 
-we appreciate all feedback and support ❤️
+> ⚠️ free access is **temporary**  
+> after beta ends, private version may return to **invite-only / paid**
 
-## features
-
-### aimbot
-- smooth aim with customizable speed and curves  
-- fov control (circle / dynamic)  
-- bone selection (head, chest, etc.)  
-- visibility check  
-- aim delay & reaction time  
-- legit-style randomization  
-- target switching control  
-
-### recoil control system (rcs)
-- standalone & aimbot-assisted modes  
-- customizable x/y compensation  
-- spray control for all weapons  
-- humanized smoothing  
-- stability improvements  
-
-### triggerbot
-- auto fire on enemy detection  
-- configurable delay  
-- hitgroup selection  
-- seeded randomization for legit behavior  
-- improved detection logic  
-
-### visuals
-- esp (box, health, name, weapon)  
-- recoil crosshair  
-- watermark  
-- spectator list (see who is watching you)  
-- customizable colors and styles  
-
-### misc
-- bhop
-- configurable hotkeys  
-
-### config system
-- easy config save/load  
-- default legit config included  
-- fast switching between profiles  
-
-### security
-- fully external (no injection)  
-- no traces left on system (private version)  
-- protected loader  
-- improved anti-detection methods  
-- secure communication  
-
-## versions
-
-- **public stable** – free external version with core features  
-- **private stable** – invite-only version with enhanced security and no system traces  
-
-## usage
-1. run loader  
-2. inject (external start)  
-3. launch cs2  
-4. configure in menu  
-
-## support
-to get access or a key, contact support via ticket system.
+❤️ thanks for all support and feedback
 
 ---
 
-designed for legit playstyle. frequent updates and improvements.
+## ⚙️ features
+
+### 🎯 aimbot
+- smooth aim with customizable speed & curves  
+- fov control *(static / dynamic)*  
+- bone selection *(head, chest, etc.)*  
+- visibility check  
+- aim delay & reaction time  
+- legit-style randomization  
+- smart target switching  
+
+### 🔫 recoil control system (rcs)
+- standalone & aimbot-assisted modes  
+- customizable x/y compensation  
+- weapon-based spray control  
+- humanized smoothing  
+- improved stability  
+
+### ⚡ triggerbot
+- automatic fire on target detection  
+- configurable delay  
+- hitgroup selection  
+- seeded randomization *(legit behavior)*  
+- improved detection logic  
+
+### 👁 visuals
+- esp *(box, health, name, weapon)*  
+- recoil crosshair  
+- spectator list *(see who is watching you)*  
+- watermark  
+- fully customizable colors & styles  
+
+### 🧩 misc
+- bhop  
+- configurable hotkeys  
+
+### 💾 config system
+- fast save / load configs  
+- default legit config included  
+- quick profile switching  
+
+### 🔒 security
+- fully external *(no injection)*  
+- no system traces *(private version)*  
+- protected loader  
+- improved anti-detection  
+- secure communication  
+
+---
+
+## 🛠 support
+
+to get access or a key — use the **ticket system**
+
+---
+
+> designed for legit playstyle  
+> actively updated & continuously improved
