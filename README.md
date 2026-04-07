@@ -1,11 +1,17 @@
 # CS2-External
 💕 hex.systems ext project for cs2
 
-## notice
+## 🚧 private beta access
 
-### private beta is currently available for free due to ongoing bug fixes and testing.  
-this temporary access is provided so users can help identify issues and improve stability. once the beta phase ends, private access may return to invite-only or paid.
-thank you for your support and feedback.
+the **private version** is currently available **for free** during the beta phase.
+
+this is a temporary decision while we actively fix bugs, improve stability, and polish core systems.  
+by using the beta, you’re helping us test and refine the project.
+
+> ⚠️ this free access is **limited to the beta period only**  
+> once testing is complete, private access may return to invite-only or paid.
+
+we appreciate all feedback and support ❤️
 
 hex.systems – free external cs2 client focused on legit gameplay, stability, and security. designed to stay undetected while providing smooth and customizable features for everyday use.
 
