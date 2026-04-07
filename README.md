@@ -1,3 +1,4 @@
+<img width="1919" height="1079" alt="Снимок экрана 2026-04-07 072711" src="https://github.com/user-attachments/assets/727b3ea4-9411-49ab-9886-cd331b8b13b8" />
 # 💕 CS2 External — hex.systems
 
 > free external client for cs2 focused on **legit gameplay**, **stability**, and **security**  
