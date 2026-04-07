@@ -1,6 +1,8 @@
 # CS2-External
 💕 hex.systems ext project for cs2
 
+↪️ FOR OBTAINING A KEY, YOU NEED TO JOIN THE DISCORD SERVER AND CONTACT SUPPORT VIA THE #OPEN-TICKET CHANNEL
+
 ## 🚧 private beta access
 
 the **private version** is currently available **for free** during the beta phase.
