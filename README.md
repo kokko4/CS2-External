@@ -1,10 +1,8 @@
 # CS2-External
 💕 hex.systems ext project for cs2
+free ext-cs2 client focused on legit gameplay, stability, and security. designed to stay undetected while providing smooth and customizable features for everyday use.
 
-↪️ FOR OBTAINING A KEY, YOU NEED TO JOIN THE DISCORD SERVER AND CONTACT SUPPORT VIA THE #OPEN-TICKET CHANNEL
-↪️ FOR OBTAINING A KEY, YOU NEED TO JOIN THE DISCORD SERVER AND CONTACT SUPPORT VIA THE #OPEN-TICKET CHANNEL
-↪️ FOR OBTAINING A KEY, YOU NEED TO JOIN THE DISCORD SERVER AND CONTACT SUPPORT VIA THE #OPEN-TICKET CHANNEL
-↪️ FOR OBTAINING A KEY, YOU NEED TO JOIN THE DISCORD SERVER AND CONTACT SUPPORT VIA THE #OPEN-TICKET CHANNEL
+### ↪️ FOR OBTAINING A KEY, YOU NEED TO JOIN THE DISCORD SERVER AND CONTACT SUPPORT VIA THE #OPEN-TICKET CHANNEL
 
 ## 🚧 private beta access
 
@@ -17,8 +15,6 @@ by using the beta, you’re helping us test and refine the project.
 > once testing is complete, private access may return to invite-only or paid.
 
 we appreciate all feedback and support ❤️
-
-hex.systems – free external cs2 client focused on legit gameplay, stability, and security. designed to stay undetected while providing smooth and customizable features for everyday use.
 
 ## features
 
