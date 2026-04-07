@@ -67,12 +67,7 @@ by using the beta, you help us **test, improve, and refine** the project.
 
 ### 🧩 misc
 - bhop  
-- configurable hotkeys  
-
-### 💾 config system
-- fast save / load configs  
-- default legit config included  
-- quick profile switching  
+- configurable hotkeys   
 
 ### 🔒 security
 - fully external *(no injection)*  
