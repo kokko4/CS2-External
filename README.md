@@ -1,3 +1,4 @@
+<img width="973" height="506" alt="Снимок экрана 2026-04-07 075157" src="https://github.com/user-attachments/assets/d0991cca-fad5-4c04-9854-5840c5a525b4" />
 <img width="1919" height="1079" alt="Снимок экрана 2026-04-07 072711" src="https://github.com/user-attachments/assets/727b3ea4-9411-49ab-9886-cd331b8b13b8" />
 
 # 💕 CS2 External — hex.systems
