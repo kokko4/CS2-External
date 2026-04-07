@@ -9,6 +9,7 @@
 
 > ### ↪️ TO OBTAIN A KEY  
 > join the discord server and create a ticket in **#open-ticket**
+> https://discord.gg/G9VPd7bzgY
 
 ---
 
